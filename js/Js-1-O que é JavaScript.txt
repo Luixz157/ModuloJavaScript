@@ -1,0 +1,13 @@
+O que é JavaScript?
+
+JavaScript é uma linguagem de programação que permite implementar funcionalidades complexas em páginas web. Sempre que você interage com uma página web que faz mais do que simplesmente exibir informações estáticas, como mostrar conteúdo atualizado em tempo real, mapas interativos ou gráficos animados em 2D/3D, é bem provável que o JavaScript esteja envolvido. É a terceira camada das tecnologias padrão da web, junto com HTML e CSS, com as quais interage para criar experiências dinâmicas e interativas.
+
+Então, o que o JavaScript pode realmente fazer?
+
+- Armazenar conteúdo em variáveis: Você pode salvar dados úteis em variáveis, que podem ser usadas e manipuladas ao longo do seu código.
+- Manipulação de texto: Permite realizar operações com strings (textos), como concatenar, dividir, substituir, entre outras.
+- Reagir a eventos: O JavaScript pode executar código em resposta a eventos que ocorrem em uma página web, como cliques de mouse, pressionamento de teclas, e mudanças no conteúdo.
+- Criar e modificar elementos HTML e CSS: Pode dinamicamente criar, modificar e remover elementos HTML e estilos CSS na página.
+- Comunicação com servidores: Facilita a comunicação assíncrona com servidores para carregar dados sem precisar recarregar a página inteira.
+- Animações e efeitos: Permite criar animações e efeitos visuais, tornando a experiência do usuário mais atraente.
+- Validação de formulários: Pode validar dados de formulários no lado do cliente antes de enviá-los para o servidor.
